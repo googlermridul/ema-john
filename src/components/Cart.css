@@ -1,0 +1,21 @@
+.cart-box {
+   padding: 15px;
+   background: #f7f7f8;
+   border-radius: 5px;
+   text-align: center;
+}
+
+.cart-box h5 {
+   margin-bottom: 15px;
+}
+
+.cart-box p {
+   font-weight: 500;
+   margin: 10px 0;
+   text-align: left;
+   font-size: 14px;
+}
+
+.cart-box p span {
+   float: right;
+}

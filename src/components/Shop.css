@@ -1,0 +1,16 @@
+.shop-container {}
+
+.product-container {
+   padding: 15px;
+   height: 81vh;
+   overflow: auto;
+}
+
+.product-container::-webkit-scrollbar {
+   width: 0px;
+   height: 10px;
+}
+
+.cart-container {
+   padding-top: 15px;
+}

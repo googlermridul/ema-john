@@ -1,0 +1,25 @@
+.header {
+   text-align: center;
+}
+
+.header img {
+   width: 150px;
+   padding: 15px 0;
+}
+
+.header nav {
+   background: #333;
+   padding: 15px 0;
+}
+
+.header nav a {
+   text-decoration: none;
+   color: #fff;
+   margin: 0 15px;
+   font-weight: 500;
+   transition: .4s;
+}
+
+.header nav a:hover {
+   color: #ff9700;
+}
